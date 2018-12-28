@@ -1,0 +1,24 @@
+[01-Oct-2018 07:42:14] NOTICE: fpm is running, pid 16
+[01-Oct-2018 07:42:14] NOTICE: ready to handle connections
+[09-Nov-2018 09:09:43] NOTICE: fpm is running, pid 9
+[09-Nov-2018 09:09:43] NOTICE: ready to handle connections
+[10-Nov-2018 10:57:05] NOTICE: fpm is running, pid 54
+[10-Nov-2018 10:57:05] NOTICE: ready to handle connections
+[30-Nov-2018 14:10:08] NOTICE: fpm is running, pid 56
+[30-Nov-2018 14:10:08] NOTICE: ready to handle connections
+[05-Dec-2018 07:38:47] WARNING: [pool www] child 476 exited on signal 11 (SIGSEGV) after 43886.062596 seconds from start
+[05-Dec-2018 07:38:47] NOTICE: [pool www] child 3152 started
+[05-Dec-2018 08:11:20] WARNING: [pool www] child 3152 exited on signal 11 (SIGSEGV) after 1952.262248 seconds from start
+[05-Dec-2018 08:11:20] NOTICE: [pool www] child 4799 started
+[10-Dec-2018 07:35:21] NOTICE: fpm is running, pid 54
+[10-Dec-2018 07:35:21] NOTICE: ready to handle connections
+[11-Dec-2018 10:18:50] WARNING: [pool www] child 14405 exited on signal 11 (SIGSEGV) after 2324.833656 seconds from start
+[11-Dec-2018 10:18:50] NOTICE: [pool www] child 16267 started
+[11-Dec-2018 10:25:21] WARNING: [pool www] child 73 exited on signal 11 (SIGSEGV) after 20189.657851 seconds from start
+[11-Dec-2018 10:25:21] NOTICE: [pool www] child 16581 started
+[16-Dec-2018 13:22:20] NOTICE: fpm is running, pid 53
+[16-Dec-2018 13:22:20] NOTICE: ready to handle connections
+[16-Dec-2018 13:22:55] WARNING: [pool www] child 68 exited on signal 11 (SIGSEGV) after 35.300578 seconds from start
+[16-Dec-2018 13:22:55] NOTICE: [pool www] child 420 started
+[24-Dec-2018 09:04:17] NOTICE: fpm is running, pid 39
+[24-Dec-2018 09:04:17] NOTICE: ready to handle connections
