@@ -12,10 +12,11 @@ This is a fictional university. It was coded with PHP. I set up a custom them in
 ## Built With
 
 - PHP
+- WordPress
 - Javascript
 - CSS
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://thecoderprojects.com)
 
